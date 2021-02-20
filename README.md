@@ -3,7 +3,7 @@ Machine learning based coin trader
 
 ## Literature
 
-!. What does affect cryptocurrency price?
+1. What does affect cryptocurrency price?
 - Supply and demand:
 	*	Higher demand -> Lower Supply -> Higher Price
 -	Cost of mining
